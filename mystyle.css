@@ -1,0 +1,27 @@
+<style>
+
+.saw{
+    color: grey;
+}
+.active{
+    color : red;
+}
+#active{ color: red;}
+
+p { 
+    text-align: justify;
+}
+span{
+    color: blue;
+    text-decoration: underline;
+}
+h2 {
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+}
+a {
+    border-width: 5px;
+    border-color: blue;
+    border-style: solid;
+}
